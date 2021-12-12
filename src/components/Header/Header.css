@@ -1,10 +1,10 @@
 .Header img {
-    height: 70px;
+    height: 80px;
 }
 
 .Header {
     text-align: center;
-    margin: 5px;
+    margin: 1px;
 }
 .Header nav {
     background-color: #09b330;
