@@ -1,0 +1,10 @@
+button.review-order-btn {
+    background-color: gold;
+    width: 200px;
+    border: 1px solid gold;
+    border-radius: 25px;
+    color: black;
+    font-weight: 600;
+    cursor: pointer;
+    height: 30px;
+}
